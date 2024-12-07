@@ -11,7 +11,9 @@ dependencies:
     sdk: flutter
 
   custom_side_menu:
-    path: ../
+    git:
+      url: https://github.com/Mahmoud-Saeed-Mahmoud/custom_side_menu.git
+      ref: main
 
 dev_dependencies:
   flutter_test:

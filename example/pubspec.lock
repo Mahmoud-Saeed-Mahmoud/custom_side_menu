@@ -44,10 +44,12 @@ packages:
   custom_side_menu:
     dependency: "direct main"
     description:
-      path: ".."
-      relative: true
-    source: path
-    version: "0.0.1"
+      path: "."
+      ref: main
+      resolved-ref: "84f9d4b979c8459998642afe7dc4202eee9f66b1"
+      url: "https://github.com/Mahmoud-Saeed-Mahmoud/custom_side_menu.git"
+    source: git
+    version: "1.0.0"
   fake_async:
     dependency: transitive
     description:
