@@ -1,7 +1,7 @@
 name: custom_side_menu
 description: "A highly customizable Flutter side menu widget with support for nested items, animations, and state management. Perfect for creating elegant navigation solutions."
 version: 1.0.0
-
+homepage: https://mahmoud-saeed-mahmoud.github.io/custom_side_menu/
 environment:
   sdk: ^3.5.4
   flutter: ">=1.17.0"
